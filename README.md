@@ -71,7 +71,7 @@ Arquitecturas escalables, automatización de infraestructura y desarrollo backen
 
 ## 📬 6. Información de Contacto
 
-*   💼 **LinkedIn:** [/in/tu-linkedin](https://linkedin.com)
-*   📧 **Email:** [tu-correo@email.com](mailto:tu-correo@email.com)
+*   💼 **LinkedIn:** [/in/tu-linkedin](https://www.linkedin.com/in/joel-segovia-crespo/)
+*   📧 **Email:** [tu-correo@email.com](mailto:joelsegoviacrespo@gmail.com)
 
 [⬆️ Volver al Menú](#️-menú-de-navegación)
