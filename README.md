@@ -4,7 +4,7 @@ Arquitecturas escalables, automatización de infraestructura y desarrollo backen
 
 ---
 
-## 🗺️ Menú de Navegación
+## Menú de Navegación
 *   [1. Portafolio de Código (Proyectos Java/Python)](#-1-portafolio-de-código)
 *   [2. Infraestructura & GitOps (DevOps)](#️-2-infraestructura--gitops)
 *   [3. Stack Tecnológico General](#️-3-stack-tecnológico-general)
