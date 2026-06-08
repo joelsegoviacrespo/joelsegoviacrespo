@@ -1,5 +1,5 @@
-<table>
-  <tr>
+<table border="0">
+  <tr style="border: none;">
     <td width="150px">
       <!-- Tu foto subida al repositorio -->
       <img src="profile.png" width="150px" style="border-radius: 50%;" alt=" Joel H. Segovia Crespo"/>
