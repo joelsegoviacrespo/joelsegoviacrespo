@@ -5,18 +5,18 @@ Arquitecturas escalables, automatización de infraestructura y desarrollo backen
 ---
 
 ## 🗺️ Menú de Navegación
-*   [🗂️ 1. Portafolio de Código (Proyectos Java/Python)](#-1-portafolio-de-código)
-*   [⚙️ 2. Infraestructura & GitOps (DevOps)](#️-2-infraestructura--gitops)
-*   [🛠️ 3. Stack Tecnológico General](#️-3-stack-tecnológico-general)
-*   [📜 4. Certificaciones y Logros](#-4-certificaciones-y-logros)
-*   [📊 5. Estadísticas de Actividad](#-5-estadísticas-de-actividad)
-*   [📬 6. Información de Contacto](#-6-información-de-contacto)
+*   [1. Portafolio de Código (Proyectos Java/Python)](#-1-portafolio-de-código)
+*   [2. Infraestructura & GitOps (DevOps)](#️-2-infraestructura--gitops)
+*   [3. Stack Tecnológico General](#️-3-stack-tecnológico-general)
+*   [4. Certificaciones y Logros](#-4-certificaciones-y-logros)
+*   [5. Estadísticas de Actividad](#-5-estadísticas-de-actividad)
+*   [6. Información de Contacto](#-6-información-de-contacto)
 
 ---
 
 ## 1. Portafolio de Código
 
-### ☕ Ecosistema Java / Enterprise
+### Ecosistema Java / Enterprise
 *   **[Microservicios con Spring Boot](https://github.com)**: Arquitectura hexagonal, CQRS, bases de datos PostgreSQL y pruebas con Testcontainers.
 *   **[API Reactiva con Quarkus](https://github.com)**: Servicio asíncrono optimizado para bajo consumo de memoria y despliegue nativo con GraalVM.
 
