@@ -65,12 +65,12 @@
 
 ---
 
-##  5. Estadísticas de Actividad
+<!--##  5. Estadísticas de Actividad
 
 <p align="center">
   <img src="https://vercel.app" alt="Estadísticas de GitHub" height="160px"/>
   <img src="https://vercel.app" alt="Lenguajes más usados" height="160px"/>
-</p>
+</p>--
 
 [⬆️ Volver al Menú](#️-menú-de-navegación)
 
