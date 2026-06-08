@@ -1,6 +1,6 @@
-# [Tu Nombre] | Senior Engineer & DevOps Specialist
+# Joel H. Segovia Crespo | Senior Engineer & DevOps Specialist
 
-> 🎯 Arquitecturas escalables, automatización de infraestructura y desarrollo backend de alto rendimiento.
+Arquitecturas escalables, automatización de infraestructura y desarrollo backend de alto rendimiento.
 
 ---
 
@@ -14,13 +14,13 @@
 
 ---
 
-## 🗂️ 1. Portafolio de Código
+## 1. Portafolio de Código
 
 ### ☕ Ecosistema Java / Enterprise
 *   **[Microservicios con Spring Boot](https://github.com)**: Arquitectura hexagonal, CQRS, bases de datos PostgreSQL y pruebas con Testcontainers.
 *   **[API Reactiva con Quarkus](https://github.com)**: Servicio asíncrono optimizado para bajo consumo de memoria y despliegue nativo con GraalVM.
 
-### 🐍 Ecosistema Python / Alta Disponibilidad
+### Ecosistema Python / Alta Disponibilidad
 *   **[Async API con FastAPI](https://github.com)**: Backend asíncrono con autenticación OAuth2, cache en Redis y procesamiento en segundo plano con Celery.
 *   **[Pipeline de Datos Eficiente](https://github.com)**: Scripting avanzado en Python para ETL, procesamiento concurrente y manejo de grandes volúmenes de datos.
 
@@ -28,7 +28,7 @@
 
 ---
 
-## ⚙️ 2. Infraestructura & GitOps
+## 2. Infraestructura & GitOps
 
 *   **[Infraestructura como Código (IaC)](https://github.com)**: Módulos reutilizables de Terraform para desplegar una arquitectura multinivel en AWS (VPC, EKS, RDS).
 *   **[CI/CD Pipelines Avanzados](https://github.com)**: Configuración de GitHub Actions con escaneo de seguridad (SonarQube), versionado semántico automático y despliegue en Kubernetes mediante Helm.
@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠️ 3. Stack Tecnológico General
+## 3. Stack Tecnológico General
 
 *   **Lenguajes:** Java (8/11/17+), Python (3.x), SQL, Go (Básico).
 *   **Frameworks:** Spring Boot, Quarkus, FastAPI, Django.
@@ -48,7 +48,7 @@
 
 ---
 
-## 📜 4. Certificaciones y Logros
+##  4. Certificaciones y Logros
 
 *   🥇 **AWS Certified Solutions Architect – Professional** ([Ver Credencial](https://enlace-a-tu-certificacion))
 *   🥈 **Certified Kubernetes Administrator (CKA)** ([Ver Credencial](https://enlace-a-tu-certificacion))
@@ -58,7 +58,7 @@
 
 ---
 
-## 📊 5. Estadísticas de Actividad
+##  5. Estadísticas de Actividad
 
 <p align="center">
   <img src="https://vercel.app" alt="Estadísticas de GitHub" height="160px"/>
