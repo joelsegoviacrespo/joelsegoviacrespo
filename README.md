@@ -1,4 +1,19 @@
-# Joel H. Segovia Crespo | Senior Engineer & DevOps Specialist
+<table>
+  <tr>
+    <td width="150px">
+      <!-- Tu foto subida al repositorio -->
+      <img src="profile.png" width="150px" style="border-radius: 50%;" alt=" Joel H. Segovia Crespo"/>
+    </td>
+    <td>
+      <h1> Joel H. Segovia Crespo | Senior Engineer & DevOps Specialist</h1>
+      <h3>Senior Software Engineer & DevOps Specialist</h3>
+      <p>Arquitecturas escalables, automatización de infraestructura y desarrollo backend de alto rendimiento.</p>
+    </td>
+  </tr>
+</table>
+
+
+#
 
 Arquitecturas escalables, automatización de infraestructura y desarrollo backend de alto rendimiento.
 
