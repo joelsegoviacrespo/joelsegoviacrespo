@@ -1,21 +1,13 @@
-<table border="0">
-  <tr style="border: none;">
-    <td width="150px">
-      <!-- Tu foto subida al repositorio -->
-      <img src="profile.png" width="150px" style="border-radius: 50%;" alt=" Joel H. Segovia Crespo"/>
-    </td>
-    <td>
-      <h1> Joel H. Segovia Crespo | Senior Engineer & DevOps Specialist</h1>
-      <h3>Senior Software Engineer & DevOps Specialist</h3>
-      <p>Arquitecturas escalables, automatización de infraestructura y desarrollo backend de alto rendimiento.</p>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img src="profile.png" width="130px" align="left" style="margin-right: 20px;" alt="Joel H. Segovia Crespo"/>
+  <p style="font-size: 2em; margin: 0; font-weight: bold; color: white;">Joel H. Segovia Crespo</p>
+  <p style="font-size: 1.3em; margin: 5px 0; font-weight: bold;">Senior Software Engineer & DevOps Specialist</p>
+  <p style="margin: 5px 0;">Ingeniero en Informatica</p>
+</div>
+<br clear="left"/>
 
-
-#
-
-Arquitecturas escalables, automatización de infraestructura y desarrollo backend de alto rendimiento.
+---
+# Arquitecturas escalables, automatización de infraestructura y desarrollo backend de alto rendimiento.
 
 ---
 
