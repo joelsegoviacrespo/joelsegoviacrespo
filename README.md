@@ -28,10 +28,16 @@
 *   **[API Reactiva con Quarkus](https://github.com)**: Servicio asíncrono optimizado para bajo consumo de memoria y despliegue nativo con GraalVM.
 
 ### Ecosistema Python / Alta Disponibilidad
+*   **[Enrutador IA](https://github.com/joelsegoviacrespo/enrutador_ia)**: Proyecto que muestra conectar Python con modelos de IA.
+
 *   **[Async API con FastAPI](https://github.com)**: Backend asíncrono con autenticación OAuth2, cache en Redis y procesamiento en segundo plano con Celery.
 *   **[Pipeline de Datos Eficiente](https://github.com)**: Scripting avanzado en Python para ETL, procesamiento concurrente y manejo de grandes volúmenes de datos.
 
 [⬆️ Volver al Menú](#️-menú-de-navegación)
+
+
+
+
 
 ---
 
